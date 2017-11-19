@@ -1,0 +1,6 @@
+/Users/deniz/Developer/NEt/Lab5/Lab2/obj/x86/Debug/Lab5.csprojResolveAssemblyReference.cache
+/Users/deniz/Developer/NEt/Lab5/Lab2/obj/x86/Debug/Lab5.csproj.CoreCompileInputs.cache
+/Users/deniz/Developer/NEt/Lab5/Lab2/obj/x86/Debug/Lab2.exe
+/Users/deniz/Developer/NEt/Lab5/Lab2/obj/x86/Debug/Lab2.pdb
+/Users/deniz/Developer/NEt/Lab5/Lab2/bin/Debug/Lab2.exe
+/Users/deniz/Developer/NEt/Lab5/Lab2/bin/Debug/Lab2.pdb
